@@ -1,0 +1,140 @@
+{
+  "authors": [
+    {
+      "id": "a1b2c3d4",
+      "name": "Eiichiro Oda",
+      "bio": "Eiichiro Oda is a Japanese manga artist best known for creating 'One Piece', one of the best-selling comic series of all time. His work is celebrated for its expansive world-building, memorable characters, and adventurous storytelling.",
+      "comics": [
+        {
+          "id": "op001",
+          "title": "One Piece",
+          "chapters": 1100,
+          "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e5f6g7h8",
+      "name": "Masashi Kishimoto",
+      "bio": "Masashi Kishimoto is a Japanese manga creator famous for the immensely popular 'Naruto' series. His stories combine action, friendship, and personal growth in a detailed ninja world.",
+      "comics": [
+        {
+          "id": "na001",
+          "title": "Naruto",
+          "chapters": 700,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ]
+        },
+        {
+          "id": "br001",
+          "title": "Boruto: Naruto Next Generations",
+          "chapters": 80,
+          "genres": [
+            "Action",
+            "Sci-Fi",
+            "Adventure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i9j0k1l2",
+      "name": "Stan Lee",
+      "bio": "Stan Lee was an American comic book writer, editor, and publisher who helped create many of Marvel Comics' most iconic superheroes. His influence shaped modern superhero comics and popular culture.",
+      "comics": [
+        {
+          "id": "sm001",
+          "title": "The Amazing Spider-Man",
+          "chapters": 441,
+          "genres": [
+            "Superhero",
+            "Action",
+            "Adventure"
+          ]
+        },
+        {
+          "id": "ff001",
+          "title": "Fantastic Four",
+          "chapters": 416,
+          "genres": [
+            "Superhero",
+            "Sci-Fi",
+            "Action"
+          ]
+        },
+        {
+          "id": "xh001",
+          "title": "X-Men",
+          "chapters": 544,
+          "genres": [
+            "Superhero",
+            "Fantasy",
+            "Action"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m3n4o5p6",
+      "name": "Robert Kirkman",
+      "bio": "Robert Kirkman is an American comic book writer best known for creating 'The Walking Dead' and 'Invincible'. His work often explores survival, morality, and complex character relationships.",
+      "comics": [
+        {
+          "id": "wd001",
+          "title": "The Walking Dead",
+          "chapters": 193,
+          "genres": [
+            "Horror",
+            "Drama",
+            "Zombie"
+          ]
+        },
+        {
+          "id": "in001",
+          "title": "Invincible",
+          "chapters": 144,
+          "genres": [
+            "Superhero",
+            "Action",
+            "Sci-Fi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q7r8s9t0",
+      "name": "Alan Moore",
+      "bio": "Alan Moore is a British comic book writer widely regarded as one of the greatest authors in the medium. His works have had a profound impact on modern comics through mature themes and innovative storytelling.",
+      "comics": [
+        {
+          "id": "wm001",
+          "title": "Watchmen",
+          "chapters": 12,
+          "genres": [
+            "Superhero",
+            "Mystery",
+            "Drama"
+          ]
+        },
+        {
+          "id": "vp001",
+          "title": "V for Vendetta",
+          "chapters": 10,
+          "genres": [
+            "Political",
+            "Drama",
+            "Dystopian"
+          ]
+        }
+      ]
+    }
+  ],
+ 
+}

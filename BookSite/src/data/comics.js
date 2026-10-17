@@ -1,0 +1,148 @@
+export const comics = [
+  {
+    id: 'one-piece',
+    title: 'One Piece',
+    creator: 'Eiichiro Oda',
+    year: 1997,
+    issues: '1,100+ chapters',
+    genres: ['Adventure', 'Fantasy', 'Action'],
+    description:
+      'Join Monkey D. Luffy and his crew on a joyful, globe-spanning quest to find the legendary One Piece.',
+    color: 'ocean',
+    mark: '海',
+  },
+  {
+    id: 'naruto',
+    title: 'Naruto',
+    creator: 'Masashi Kishimoto',
+    year: 1999,
+    issues: '700 chapters',
+    genres: ['Action', 'Adventure', 'Fantasy'],
+    description:
+      'An underestimated young ninja works toward his dream of becoming the strongest leader in his village.',
+    color: 'sunset',
+    mark: '忍',
+  },
+  {
+    id: 'amazing-spider-man',
+    title: 'The Amazing Spider-Man',
+    creator: 'Stan Lee',
+    year: 1963,
+    issues: '441+ issues',
+    genres: ['Superhero', 'Action', 'Adventure'],
+    description:
+      'Peter Parker balances everyday life with the responsibility of protecting New York as Spider-Man.',
+    color: 'web',
+    mark: 'SPIDEY',
+  },
+  {
+    id: 'fantastic-four',
+    title: 'Fantastic Four',
+    creator: 'Stan Lee',
+    year: 1961,
+    issues: '416+ issues',
+    genres: ['Superhero', 'Sci-Fi', 'Action'],
+    description:
+      'A close-knit family of explorers discovers strange powers and faces the unknown together.',
+    color: 'cosmic',
+    mark: 'FF',
+  },
+  {
+    id: 'x-men',
+    title: 'X-Men',
+    creator: 'Stan Lee',
+    year: 1963,
+    issues: '544+ issues',
+    genres: ['Superhero', 'Fantasy', 'Action'],
+    description:
+      'Mutants with extraordinary abilities fight for a world where humans and mutants can live together.',
+    color: 'mutant',
+    mark: 'X',
+  },
+  {
+    id: 'walking-dead',
+    title: 'The Walking Dead',
+    creator: 'Robert Kirkman',
+    year: 2003,
+    issues: '193 issues',
+    genres: ['Horror', 'Drama', 'Zombie'],
+    description:
+      'Survivors navigate a world transformed by the undead, where the hardest choices are often human ones.',
+    color: 'afterdark',
+    mark: 'THE DEAD',
+  },
+  {
+    id: 'invincible',
+    title: 'Invincible',
+    creator: 'Robert Kirkman',
+    year: 2003,
+    issues: '144 issues',
+    genres: ['Superhero', 'Action', 'Sci-Fi'],
+    description:
+      'Teenager Mark Grayson discovers what it means to inherit a super-powered legacy of his own.',
+    color: 'hero',
+    mark: 'INVINCIBLE',
+  },
+  {
+    id: 'watchmen',
+    title: 'Watchmen',
+    creator: 'Alan Moore',
+    year: 1986,
+    issues: '12 issues',
+    genres: ['Superhero', 'Mystery', 'Drama'],
+    description:
+      'A murder investigation draws a group of retired heroes into a mystery that could change the world.',
+    color: 'watch',
+    mark: 'WHO WATCHES?',
+  },
+  {
+    id: 'v-for-vendetta',
+    title: 'V for Vendetta',
+    creator: 'Alan Moore',
+    year: 1982,
+    issues: '10 issues',
+    genres: ['Political', 'Drama', 'Dystopian'],
+    description:
+      'In a dark future, a masked revolutionary challenges an authoritarian regime and inspires a nation.',
+    color: 'vendetta',
+    mark: 'V',
+  },
+]
+
+export const creators = [
+  {
+    name: 'Eiichiro Oda',
+    role: 'Manga artist',
+    bio: 'Creator of One Piece, celebrated for its imaginative world-building and enduring sense of adventure.',
+    initials: 'EO',
+    color: 'creator-ocean',
+  },
+  {
+    name: 'Masashi Kishimoto',
+    role: 'Manga artist',
+    bio: 'The creator of Naruto, a story of perseverance, friendship, and finding your place in the world.',
+    initials: 'MK',
+    color: 'creator-sunset',
+  },
+  {
+    name: 'Stan Lee',
+    role: 'Writer & editor',
+    bio: 'A legendary comic writer who helped shape some of Marvel’s most iconic superhero stories.',
+    initials: 'SL',
+    color: 'creator-cosmic',
+  },
+  {
+    name: 'Robert Kirkman',
+    role: 'Writer',
+    bio: 'Known for character-driven worlds in The Walking Dead and Invincible.',
+    initials: 'RK',
+    color: 'creator-hero',
+  },
+  {
+    name: 'Alan Moore',
+    role: 'Writer',
+    bio: 'An acclaimed writer known for ambitious, thought-provoking works including Watchmen.',
+    initials: 'AM',
+    color: 'creator-watch',
+  },
+]
